@@ -1,0 +1,14 @@
+[RESOURCES]
+Workstation B Machine
+Workstation A Machine
+Worksation C Machine
+[VARIABLES]
+Workstation A Process.NumberIn
+Workstation A Process.NumberOut
+Transfer Time
+Part Arrival.NumberOut
+Dispose of Part.NumberOut
+Workstation C Process.NumberIn
+Workstation C Process.NumberOut
+Workstation B Process.NumberOut
+Workstation B Process.NumberIn

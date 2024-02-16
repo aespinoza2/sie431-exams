@@ -1,0 +1,726 @@
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 10
+
+Project: Unnamed Project                                             Run execution date : 5/ 2/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 5/ 2/2023
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Passing Customer System Time                79.474     (Insuf)    3.0729     183.19        128    
+Customer.VATime                             7.7597     (Insuf)    .05220     52.917        165    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000        165    
+Customer.WaitTime                           66.599     (Insuf)    .00000     186.06        165    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000        165    
+Customer.OtherTime                          2.7133     (Insuf)    .00000     4.2216        165    
+Customer.TotalTime                          77.072     (Insuf)    1.5970     201.30        165    
+TestingProcess.Queue.WaitingTime            13.063     (Insuf)    .00000     44.564        253    
+PhotoBooth2.Queue.WaitingTime                   --         --         --         --          0
+PhotoBooth1.Queue.WaitingTime               76.802     (Insuf)    .00000     182.43        129    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                49.413     (Corr)     .00000     105.00     105.00    
+Electronic Tester.NumberBusy                4.4725     (Insuf)    .00000     5.0000     5.0000    
+Electronic Tester.NumberScheduled           5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Electronic Tester.Utilization               .89450     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberBusy                    .93967     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 1.Utilization                   .93967     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 2.NumberBusy                    .00000     (Insuf)    .00000     .00000     .00000    
+Photo Booth 2.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 2.Utilization                   .00000     (Insuf)    .00000     .00000     .00000    
+TestingProcess.Queue.NumberInQueue          7.3681     (Corr)     .00000     24.000     17.000    
+PhotoBooth2.Queue.NumberInQueue             .00000     (Insuf)    .00000     .00000     .00000    
+PhotoBooth1.Queue.NumberInQueue             36.633     (Corr)     .00000     84.000     82.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Test Failure Count                               37  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           270.00    
+Customer.NumberOut                          165.00    
+Electronic Tester.NumberSeized              253.00    
+Electronic Tester.ScheduledUtilization      .89450    
+Photo Booth 1.NumberSeized                  129.00    
+Photo Booth 1.ScheduledUtilization          .93967    
+Photo Booth 2.NumberSeized                  .00000    
+Photo Booth 2.ScheduledUtilization          .00000    
+System.NumberOut                            165.00    
+
+Beginning replication 2 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 2 of 10
+
+Project: Unnamed Project                                             Run execution date : 5/ 2/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 5/ 2/2023
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Passing Customer System Time                82.000     (Insuf)    2.9969     174.33        132    
+Customer.VATime                             7.8920     (Insuf)    .18488     43.028        161    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000        161    
+Customer.WaitTime                           67.389     (Insuf)    .00000     188.10        161    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000        161    
+Customer.OtherTime                          2.8673     (Insuf)    .00000     4.2281        161    
+Customer.TotalTime                          78.148     (Insuf)    .31072     206.86        161    
+TestingProcess.Queue.WaitingTime            3.6711     (Insuf)    .00000     17.999        250    
+PhotoBooth2.Queue.WaitingTime                   --         --         --         --          0
+PhotoBooth1.Queue.WaitingTime               79.212     (Insuf)    .00000     172.71        133    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                47.026     (Corr)     .00000     92.000     89.000    
+Electronic Tester.NumberBusy                4.0231     (Insuf)    .00000     5.0000     4.0000    
+Electronic Tester.NumberScheduled           5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Electronic Tester.Utilization               .80462     (Insuf)    .00000     1.0000     .80000    
+Photo Booth 1.NumberBusy                    .96397     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 1.Utilization                   .96397     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 2.NumberBusy                    .00000     (Insuf)    .00000     .00000     .00000    
+Photo Booth 2.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 2.Utilization                   .00000     (Insuf)    .00000     .00000     .00000    
+TestingProcess.Queue.NumberInQueue          1.9120     (Insuf)    .00000     15.000     .00000    
+PhotoBooth2.Queue.NumberInQueue             .00000     (Insuf)    .00000     .00000     .00000    
+PhotoBooth1.Queue.NumberInQueue             40.127     (Corr)     .00000     88.000     84.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Test Failure Count                               29  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           250.00    
+Customer.NumberOut                          161.00    
+Electronic Tester.NumberSeized              250.00    
+Electronic Tester.ScheduledUtilization      .80462    
+Photo Booth 1.NumberSeized                  133.00    
+Photo Booth 1.ScheduledUtilization          .96397    
+Photo Booth 2.NumberSeized                  .00000    
+Photo Booth 2.ScheduledUtilization          .00000    
+System.NumberOut                            161.00    
+
+Beginning replication 3 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 3 of 10
+
+Project: Unnamed Project                                             Run execution date : 5/ 2/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 5/ 2/2023
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Passing Customer System Time                75.474     (Insuf)    3.0903     161.81        133    
+Customer.VATime                             7.1489     (Insuf)    .05108     43.567        165    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000        165    
+Customer.WaitTime                           62.511     (Insuf)    .00000     170.44        165    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000        165    
+Customer.OtherTime                          2.8169     (Insuf)    .00000     4.1242        165    
+Customer.TotalTime                          72.477     (Insuf)    .42785     187.78        165    
+TestingProcess.Queue.WaitingTime            5.7595     (Insuf)    .00000     28.340        250    
+PhotoBooth2.Queue.WaitingTime                   --         --         --         --          0
+PhotoBooth1.Queue.WaitingTime               72.644     (Insuf)    .00000     160.98        134    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                42.080     (Corr)     .00000     86.000     85.000    
+Electronic Tester.NumberBusy                3.5979     (Insuf)    .00000     5.0000     5.0000    
+Electronic Tester.NumberScheduled           5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Electronic Tester.Utilization               .71959     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberBusy                    .97285     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 1.Utilization                   .97285     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 2.NumberBusy                    .00000     (Insuf)    .00000     .00000     .00000    
+Photo Booth 2.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 2.Utilization                   .00000     (Insuf)    .00000     .00000     .00000    
+TestingProcess.Queue.NumberInQueue          2.9997     (Insuf)    .00000     19.000     .00000    
+PhotoBooth2.Queue.NumberInQueue             .00000     (Insuf)    .00000     .00000     .00000    
+PhotoBooth1.Queue.NumberInQueue             34.509     (Corr)     .00000     79.000     79.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Test Failure Count                               32  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           250.00    
+Customer.NumberOut                          165.00    
+Electronic Tester.NumberSeized              250.00    
+Electronic Tester.ScheduledUtilization      .71959    
+Photo Booth 1.NumberSeized                  134.00    
+Photo Booth 1.ScheduledUtilization          .97285    
+Photo Booth 2.NumberSeized                  .00000    
+Photo Booth 2.ScheduledUtilization          .00000    
+System.NumberOut                            165.00    
+
+Beginning replication 4 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 4 of 10
+
+Project: Unnamed Project                                             Run execution date : 5/ 2/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 5/ 2/2023
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Passing Customer System Time                83.405     (Insuf)    3.6574     169.64        130    
+Customer.VATime                             7.2221     (Insuf)    .02826     40.310        161    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000        161    
+Customer.WaitTime                           70.679     (Insuf)    .00000     184.96        161    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000        161    
+Customer.OtherTime                          2.7902     (Insuf)    .00000     4.1302        161    
+Customer.TotalTime                          80.691     (Insuf)    .09412     199.47        161    
+TestingProcess.Queue.WaitingTime            12.083     (Insuf)    .00000     39.072        256    
+PhotoBooth2.Queue.WaitingTime                   --         --         --         --          0
+PhotoBooth1.Queue.WaitingTime               80.606     (Insuf)    .00000     166.20        131    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                48.928     (Corr)     .00000     96.000     95.000    
+Electronic Tester.NumberBusy                4.0289     (Insuf)    .00000     5.0000     4.0000    
+Electronic Tester.NumberScheduled           5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Electronic Tester.Utilization               .80579     (Insuf)    .00000     1.0000     .80000    
+Photo Booth 1.NumberBusy                    .93906     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 1.Utilization                   .93906     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 2.NumberBusy                    .00000     (Insuf)    .00000     .00000     .00000    
+Photo Booth 2.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 2.Utilization                   .00000     (Insuf)    .00000     .00000     .00000    
+TestingProcess.Queue.NumberInQueue          6.4443     (Corr)     .00000     26.000     .00000    
+PhotoBooth2.Queue.NumberInQueue             .00000     (Insuf)    .00000     .00000     .00000    
+PhotoBooth1.Queue.NumberInQueue             37.516     (Corr)     .00000     92.000     90.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Test Failure Count                               31  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           256.00    
+Customer.NumberOut                          161.00    
+Electronic Tester.NumberSeized              256.00    
+Electronic Tester.ScheduledUtilization      .80579    
+Photo Booth 1.NumberSeized                  131.00    
+Photo Booth 1.ScheduledUtilization          .93906    
+Photo Booth 2.NumberSeized                  .00000    
+Photo Booth 2.ScheduledUtilization          .00000    
+System.NumberOut                            161.00    
+
+Beginning replication 5 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 5 of 10
+
+Project: Unnamed Project                                             Run execution date : 5/ 2/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 5/ 2/2023
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Passing Customer System Time                94.796     (Insuf)    2.9288     193.79        133    
+Customer.VATime                             7.5131     (Insuf)    .00673     35.850        157    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000        157    
+Customer.WaitTime                           83.107     (Insuf)    .00000     198.98        157    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000        157    
+Customer.OtherTime                          2.9425     (Insuf)    .00000     4.1424        157    
+Customer.TotalTime                          93.563     (Insuf)    1.6960     207.87        157    
+TestingProcess.Queue.WaitingTime            10.858     (Insuf)    .00000     30.282        260    
+PhotoBooth2.Queue.WaitingTime                   --         --         --         --          0
+PhotoBooth1.Queue.WaitingTime               92.062     (Insuf)    .00000     190.40        134    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                57.392     (Corr)     .00000     109.00     106.00    
+Electronic Tester.NumberBusy                4.4320     (Insuf)    .00000     5.0000     5.0000    
+Electronic Tester.NumberScheduled           5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Electronic Tester.Utilization               .88640     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberBusy                    .96274     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 1.Utilization                   .96274     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 2.NumberBusy                    .00000     (Insuf)    .00000     .00000     .00000    
+Photo Booth 2.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 2.Utilization                   .00000     (Insuf)    .00000     .00000     .00000    
+TestingProcess.Queue.NumberInQueue          5.9127     (Corr)     .00000     18.000     3.0000    
+PhotoBooth2.Queue.NumberInQueue             .00000     (Insuf)    .00000     .00000     .00000    
+PhotoBooth1.Queue.NumberInQueue             46.085     (Corr)     .00000     98.000     97.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Test Failure Count                               24  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           263.00    
+Customer.NumberOut                          157.00    
+Electronic Tester.NumberSeized              260.00    
+Electronic Tester.ScheduledUtilization      .88640    
+Photo Booth 1.NumberSeized                  134.00    
+Photo Booth 1.ScheduledUtilization          .96274    
+Photo Booth 2.NumberSeized                  .00000    
+Photo Booth 2.ScheduledUtilization          .00000    
+System.NumberOut                            157.00    
+
+Beginning replication 6 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 6 of 10
+
+Project: Unnamed Project                                             Run execution date : 5/ 2/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 5/ 2/2023
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Passing Customer System Time                84.029     (Insuf)    3.3739     196.17        135    
+Customer.VATime                             7.3384     (Insuf)    .04553     47.656        157    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000        157    
+Customer.WaitTime                           80.939     (Insuf)    .00000     205.41        157    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000        157    
+Customer.OtherTime                          2.9705     (Insuf)    .00000     4.2509        157    
+Customer.TotalTime                          91.248     (Insuf)    .93339     230.30        157    
+TestingProcess.Queue.WaitingTime            17.818     (Insuf)    .00000     38.788        271    
+PhotoBooth2.Queue.WaitingTime                   --         --         --         --          0
+PhotoBooth1.Queue.WaitingTime               81.377     (Insuf)    .00000     192.78        136    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                61.731     (Corr)     .00000     120.00     114.00    
+Electronic Tester.NumberBusy                4.4581     (Insuf)    .00000     5.0000     1.0000    
+Electronic Tester.NumberScheduled           5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Electronic Tester.Utilization               .89162     (Insuf)    .00000     1.0000     .20000    
+Photo Booth 1.NumberBusy                    .97192     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 1.Utilization                   .97192     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 2.NumberBusy                    .00000     (Insuf)    .00000     .00000     .00000    
+Photo Booth 2.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 2.Utilization                   .00000     (Insuf)    .00000     .00000     .00000    
+TestingProcess.Queue.NumberInQueue          10.060     (Corr)     .00000     26.000     .00000    
+PhotoBooth2.Queue.NumberInQueue             .00000     (Insuf)    .00000     .00000     .00000    
+PhotoBooth1.Queue.NumberInQueue             46.241     (Corr)     .00000     113.00     112.00    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Test Failure Count                               22  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           271.00    
+Customer.NumberOut                          157.00    
+Electronic Tester.NumberSeized              271.00    
+Electronic Tester.ScheduledUtilization      .89162    
+Photo Booth 1.NumberSeized                  136.00    
+Photo Booth 1.ScheduledUtilization          .97192    
+Photo Booth 2.NumberSeized                  .00000    
+Photo Booth 2.ScheduledUtilization          .00000    
+System.NumberOut                            157.00    
+
+Beginning replication 7 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 7 of 10
+
+Project: Unnamed Project                                             Run execution date : 5/ 2/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 5/ 2/2023
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Passing Customer System Time                66.986     (Insuf)    3.0310     142.27        127    
+Customer.VATime                             8.7915     (Insuf)    .06012     45.954        162    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000        162    
+Customer.WaitTime                           71.767     (Insuf)    .00000     196.41        162    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000        162    
+Customer.OtherTime                          2.7715     (Insuf)    .00000     4.2710        162    
+Customer.TotalTime                          83.330     (Insuf)    .37149     205.98        162    
+TestingProcess.Queue.WaitingTime            31.432     (Insuf)    .00000     66.405        244    
+PhotoBooth2.Queue.WaitingTime                   --         --         --         --          0
+PhotoBooth1.Queue.WaitingTime               64.051     (Insuf)    .00000     140.27        128    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                49.143     (Corr)     .00000     92.000     87.000    
+Electronic Tester.NumberBusy                4.4523     (Insuf)    .00000     5.0000     5.0000    
+Electronic Tester.NumberScheduled           5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Electronic Tester.Utilization               .89048     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberBusy                    .93753     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 1.Utilization                   .93753     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 2.NumberBusy                    .00000     (Insuf)    .00000     .00000     .00000    
+Photo Booth 2.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 2.Utilization                   .00000     (Insuf)    .00000     .00000     .00000    
+TestingProcess.Queue.NumberInQueue          16.111     (Corr)     .00000     39.000     5.0000    
+PhotoBooth2.Queue.NumberInQueue             .00000     (Insuf)    .00000     .00000     .00000    
+PhotoBooth1.Queue.NumberInQueue             27.642     (Corr)     .00000     76.000     76.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Test Failure Count                               35  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           249.00    
+Customer.NumberOut                          162.00    
+Electronic Tester.NumberSeized              244.00    
+Electronic Tester.ScheduledUtilization      .89048    
+Photo Booth 1.NumberSeized                  128.00    
+Photo Booth 1.ScheduledUtilization          .93753    
+Photo Booth 2.NumberSeized                  .00000    
+Photo Booth 2.ScheduledUtilization          .00000    
+System.NumberOut                            162.00    
+
+Beginning replication 8 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 8 of 10
+
+Project: Unnamed Project                                             Run execution date : 5/ 2/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 5/ 2/2023
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Passing Customer System Time                75.408     (Insuf)    2.6605     169.62        128    
+Customer.VATime                             7.3083     (Insuf)    .00223     45.676        160    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000        160    
+Customer.WaitTime                           58.963     (Insuf)    .00000     169.89        160    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000        160    
+Customer.OtherTime                          2.8351     (Insuf)    .00000     4.2767        160    
+Customer.TotalTime                          69.106     (Insuf)    .10527     189.82        160    
+TestingProcess.Queue.WaitingTime            2.1712     (Insuf)    .00000     12.828        236    
+PhotoBooth2.Queue.WaitingTime                   --         --         --         --          0
+PhotoBooth1.Queue.WaitingTime               72.612     (Insuf)    .00000     168.25        129    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                37.458     (Corr)     .00000     78.000     76.000    
+Electronic Tester.NumberBusy                3.9148     (Insuf)    .00000     5.0000     3.0000    
+Electronic Tester.NumberScheduled           5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Electronic Tester.Utilization               .78296     (Insuf)    .00000     1.0000     .60000    
+Photo Booth 1.NumberBusy                    .94588     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 1.Utilization                   .94588     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 2.NumberBusy                    .00000     (Insuf)    .00000     .00000     .00000    
+Photo Booth 2.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 2.Utilization                   .00000     (Insuf)    .00000     .00000     .00000    
+TestingProcess.Queue.NumberInQueue          1.0675     (Insuf)    .00000     7.0000     .00000    
+PhotoBooth2.Queue.NumberInQueue             .00000     (Insuf)    .00000     .00000     .00000    
+PhotoBooth1.Queue.NumberInQueue             31.530     (Insuf)    .00000     73.000     72.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Test Failure Count                               32  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           236.00    
+Customer.NumberOut                          160.00    
+Electronic Tester.NumberSeized              236.00    
+Electronic Tester.ScheduledUtilization      .78296    
+Photo Booth 1.NumberSeized                  129.00    
+Photo Booth 1.ScheduledUtilization          .94588    
+Photo Booth 2.NumberSeized                  .00000    
+Photo Booth 2.ScheduledUtilization          .00000    
+System.NumberOut                            160.00    
+
+Beginning replication 9 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 9 of 10
+
+Project: Unnamed Project                                             Run execution date : 5/ 2/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 5/ 2/2023
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Passing Customer System Time                71.397     (Insuf)    3.2077     181.30        133    
+Customer.VATime                             7.5559     (Insuf)    .02428     47.702        170    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000        170    
+Customer.WaitTime                           67.226     (Insuf)    .00000     208.46        170    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000        170    
+Customer.OtherTime                          2.7195     (Insuf)    .00000     4.1686        170    
+Customer.TotalTime                          77.501     (Insuf)    1.1753     220.64        170    
+TestingProcess.Queue.WaitingTime            14.860     (Insuf)    .00000     37.262        271    
+PhotoBooth2.Queue.WaitingTime                   --         --         --         --          0
+PhotoBooth1.Queue.WaitingTime               68.759     (Insuf)    .00000     180.27        134    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                54.248     (Corr)     .00000     104.00     101.00    
+Electronic Tester.NumberBusy                4.1070     (Insuf)    .00000     5.0000     1.0000    
+Electronic Tester.NumberScheduled           5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Electronic Tester.Utilization               .82140     (Insuf)    .00000     1.0000     .20000    
+Photo Booth 1.NumberBusy                    .97043     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 1.Utilization                   .97043     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 2.NumberBusy                    .00000     (Insuf)    .00000     .00000     .00000    
+Photo Booth 2.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 2.Utilization                   .00000     (Insuf)    .00000     .00000     .00000    
+TestingProcess.Queue.NumberInQueue          8.3897     (Corr)     .00000     30.000     .00000    
+PhotoBooth2.Queue.NumberInQueue             .00000     (Insuf)    .00000     .00000     .00000    
+PhotoBooth1.Queue.NumberInQueue             40.781     (Corr)     .00000     99.000     99.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Test Failure Count                               37  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           271.00    
+Customer.NumberOut                          170.00    
+Electronic Tester.NumberSeized              271.00    
+Electronic Tester.ScheduledUtilization      .82140    
+Photo Booth 1.NumberSeized                  134.00    
+Photo Booth 1.ScheduledUtilization          .97043    
+Photo Booth 2.NumberSeized                  .00000    
+Photo Booth 2.ScheduledUtilization          .00000    
+System.NumberOut                            170.00    
+
+Beginning replication 10 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 10 of 10
+
+Project: Unnamed Project                                             Run execution date : 5/ 2/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 5/ 2/2023
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Passing Customer System Time                65.898     (Insuf)    3.0582     143.47        132    
+Customer.VATime                             8.8548     (Insuf)    .01061     43.864        162    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000        162    
+Customer.WaitTime                           70.302     (Insuf)    .00000     187.68        162    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000        162    
+Customer.OtherTime                          2.7800     (Insuf)    .00000     4.2151        162    
+Customer.TotalTime                          81.937     (Insuf)    .26739     214.19        162    
+TestingProcess.Queue.WaitingTime            25.421     (Insuf)    .00000     60.114        241    
+PhotoBooth2.Queue.WaitingTime                   --         --         --         --          0
+PhotoBooth1.Queue.WaitingTime               63.093     (Insuf)    .00000     143.12        133    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                46.603     (Corr)     .00000     86.000     83.000    
+Electronic Tester.NumberBusy                4.4566     (Insuf)    .00000     5.0000     5.0000    
+Electronic Tester.NumberScheduled           5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Electronic Tester.Utilization               .89132     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberBusy                    .94454     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 1.Utilization                   .94454     (Insuf)    .00000     1.0000     1.0000    
+Photo Booth 2.NumberBusy                    .00000     (Insuf)    .00000     .00000     .00000    
+Photo Booth 2.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Photo Booth 2.Utilization                   .00000     (Insuf)    .00000     .00000     .00000    
+TestingProcess.Queue.NumberInQueue          12.818     (Corr)     .00000     31.000     4.0000    
+PhotoBooth2.Queue.NumberInQueue             .00000     (Insuf)    .00000     .00000     .00000    
+PhotoBooth1.Queue.NumberInQueue             28.383     (Corr)     .00000     73.000     73.000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Test Failure Count                               30  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           245.00    
+Customer.NumberOut                          162.00    
+Electronic Tester.NumberSeized              241.00    
+Electronic Tester.ScheduledUtilization      .89132    
+Photo Booth 1.NumberSeized                  133.00    
+Photo Booth 1.ScheduledUtilization          .94454    
+Photo Booth 2.NumberSeized                  .00000    
+Photo Booth 2.ScheduledUtilization          .00000    
+System.NumberOut                            162.00    
+
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                 Output Summary for 10 Replications
+
+Project: Unnamed Project                                             Run execution date : 5/ 2/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 5/ 2/2023
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+Customer.NumberIn                           256.10     8.7180     236.00     271.00     10
+Customer.NumberOut                          162.00     2.8009     157.00     170.00     10
+Electronic Tester.NumberSeized              253.20     8.3880     236.00     271.00     10
+Electronic Tester.ScheduledUtilization      .83887     .04363     .71959     .89450     10
+Photo Booth 1.NumberSeized                  132.10     1.9208     128.00     136.00     10
+Photo Booth 1.ScheduledUtilization          .95486     .01058     .93753     .97285     10
+Photo Booth 2.NumberSeized                  .00000     .00000     .00000     .00000     10
+Photo Booth 2.ScheduledUtilization          .00000     .00000     .00000     .00000     10
+System.NumberOut                            162.00     2.8009     157.00     170.00     10
+
+Simulation run time: 0.13 minutes.
+Simulation run complete.

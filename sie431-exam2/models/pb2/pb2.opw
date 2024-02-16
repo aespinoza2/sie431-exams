@@ -1,0 +1,14 @@
+[RESOURCES]
+Electronic Tester
+Photo Booth 1
+Photo Booth 2
+[VARIABLES]
+Test Score Junction.NumberOut False
+Test Score Junction.NumberOut True
+TestingProcess.NumberIn
+TestingProcess.NumberOut
+Licence Received.NumberOut
+Shortest Photo Booth Line Check.NumberOut True
+Shortest Photo Booth Line Check.NumberOut False
+Booklet Received for Further Study.NumberOut
+Customer Arrives.NumberOut

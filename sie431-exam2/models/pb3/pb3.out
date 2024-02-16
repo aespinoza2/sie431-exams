@@ -1,0 +1,106 @@
+SIMAN Run Controller.
+
+210.0 Minutes>
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 5/ 5/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 5/ 5/2023
+
+Replication ended at time      : 210.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Part 4 Cycle Time                           87.394     (Insuf)    32.608     209.63         16    
+Part 3 Cycle Time                           103.01     (Insuf)    30.164     209.63         16    
+Part 2 Cycle Time                           99.894     (Insuf)    43.035     178.97         16    
+Part 1 Cycle Time                           106.76     (Insuf)    33.035     209.63         16    
+Parts.VATime                                    --         --         --         --          0
+Parts.NVATime                                   --         --         --         --          0
+Parts.WaitTime                                  --         --         --         --          0
+Parts.TranTime                                  --         --         --         --          0
+Parts.OtherTime                                 --         --         --         --          0
+Parts.TotalTime                                 --         --         --         --          0
+Part 4.VATime                               24.162     (Insuf)    21.206     26.207          6    
+Part 4.NVATime                              .00000     (Insuf)    .00000     .00000          6    
+Part 4.WaitTime                             10.283     (Insuf)    1.3474     17.254          6    
+Part 4.TranTime                             9.0000     (Insuf)    9.0000     9.0000          6    
+Part 4.OtherTime                            .00000     (Insuf)    .00000     .00000          6    
+Part 4.TotalTime                            43.446     (Insuf)    32.608     48.973          6    
+Part 2.VATime                               37.897     (Insuf)    31.328     42.312          3    
+Part 2.NVATime                              .00000     (Insuf)    .00000     .00000          3    
+Part 2.WaitTime                             4.9057     (Insuf)    3.2278     6.1626          3    
+Part 2.TranTime                             12.000     (Insuf)    12.000     12.000          3    
+Part 2.OtherTime                            .00000     (Insuf)    .00000     .00000          3    
+Part 2.TotalTime                            54.802     (Insuf)    49.490     59.639          3    
+Part 3.VATime                               22.376     (Insuf)    21.164     23.211          3    
+Part 3.NVATime                              .00000     (Insuf)    .00000     .00000          3    
+Part 3.WaitTime                             2.5180     (Insuf)    .00000     7.5540          3    
+Part 3.TranTime                             9.0000     (Insuf)    9.0000     9.0000          3    
+Part 3.OtherTime                            .00000     (Insuf)    .00000     .00000          3    
+Part 3.TotalTime                            33.894     (Insuf)    30.164     39.765          3    
+Part 1.VATime                               25.932     (Insuf)    21.236     29.133          4    
+Part 1.NVATime                              .00000     (Insuf)    .00000     .00000          4    
+Part 1.WaitTime                             5.4537     (Insuf)    2.7995     8.3475          4    
+Part 1.TranTime                             9.0000     (Insuf)    9.0000     9.0000          4    
+Part 1.OtherTime                            .00000     (Insuf)    .00000     .00000          4    
+Part 1.TotalTime                            40.385     (Insuf)    33.035     45.833          4    
+Workstation A Process.Queue.WaitingTime     3.9898     (Insuf)    .00000     15.770         14    
+Workstation B Process.Queue.WaitingTime     4.3161     (Insuf)    .00000     13.765         14    
+Workstation C Process.Queue.WaitingTime     4.2227     (Insuf)    .00000     13.154         13    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Parts.WIP                                   .00000     (Insuf)    .00000     1.0000     .00000    
+Part 4.WIP                                  1.2889     (Insuf)    .00000     3.0000     1.0000    
+Part 2.WIP                                  1.3067     (Insuf)    .00000     5.0000     3.0000    
+Part 3.WIP                                  .62706     (Insuf)    .00000     2.0000     1.0000    
+Part 1.WIP                                  .76926     (Insuf)    .00000     2.0000     .00000    
+Workstation B Machine.NumberBusy            .81836     (Insuf)    .00000     1.0000     1.0000    
+Workstation B Machine.NumberScheduled       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Workstation B Machine.Utilization           .81836     (Insuf)    .00000     1.0000     1.0000    
+Workstation A Machine.NumberBusy            .73996     (Insuf)    .00000     1.0000     1.0000    
+Workstation A Machine.NumberScheduled       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Workstation A Machine.Utilization           .73996     (Insuf)    .00000     1.0000     1.0000    
+Worksation C Machine.NumberBusy             .74887     (Insuf)    .00000     1.0000     .00000    
+Worksation C Machine.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Worksation C Machine.Utilization            .74887     (Insuf)    .00000     1.0000     .00000    
+Workstation A Process.Queue.NumberInQueue   .26599     (Insuf)    .00000     2.0000     .00000    
+Workstation B Process.Queue.NumberInQueue   .32108     (Insuf)    .00000     2.0000     1.0000    
+Workstation C Process.Queue.NumberInQueue   .26141     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Parts.NumberIn                              21.000    
+Parts.NumberOut                             21.000    
+Part 4.NumberIn                             7.0000    
+Part 4.NumberOut                            6.0000    
+Part 2.NumberIn                             6.0000    
+Part 2.NumberOut                            3.0000    
+Part 3.NumberIn                             4.0000    
+Part 3.NumberOut                            3.0000    
+Part 1.NumberIn                             4.0000    
+Part 1.NumberOut                            4.0000    
+Workstation B Machine.NumberSeized          14.000    
+Workstation B Machine.ScheduledUtilization  .81836    
+Workstation A Machine.NumberSeized          14.000    
+Workstation A Machine.ScheduledUtilization  .73996    
+Worksation C Machine.NumberSeized           13.000    
+Worksation C Machine.ScheduledUtilization   .74887    
+System.NumberOut                            16.000    
+
+
+Simulation run time: 0.05 minutes.
+Simulation run complete.

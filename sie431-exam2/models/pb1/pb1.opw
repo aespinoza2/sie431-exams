@@ -1,0 +1,13 @@
+[RESOURCES]
+KioskStation
+Agent
+SecurityStation
+[VARIABLES]
+Manual Check In Process.NumberIn
+Kiosk Check In Process.NumberIn
+Kiosk Check In Process.NumberOut
+Passenger Arrives.NumberOut
+Passengers Checked In.NumberOut
+Security Check Process.NumberIn
+Security Check Process.NumberOut
+Manual Check In Process.NumberOut

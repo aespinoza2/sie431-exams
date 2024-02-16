@@ -1,0 +1,640 @@
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 10
+
+Project: Call Center Model Version 3 With 10 replications            Run execution date : 5/ 2/2023
+Analyst: Ernestine the Statistician                                  Model revision date: 5/ 2/2023
+
+Replication ended at time      : 610.34191 Minutes 
+Base Time Units: Minutes
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Backoffice Research WIP                     2.3947     (Insuf)    .00000     6.0000     1.0000    
+Tech 3 Total Online WIP Stat                3.9311     (Corr)     .00000     10.000     .00000    
+Tech 2 Total Online WIP Stat                4.4520     (Corr)     .00000     12.000     .00000    
+Tech 1 Total Online WIP Stat                2.4580     (Insuf)    .00000     10.000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Completed Calls                                 616  Infinite
+Total Rejected Calls                            114  Infinite
+Attempted Calls                                 731  Infinite
+Period 10 Rejected Calls                          0  Infinite
+Period 09 Rejected Calls                          0  Infinite
+Period 08 Rejected Calls                         12  Infinite
+Period 07 Rejected Calls                         22  Infinite
+Period 06 Rejected Calls                         37  Infinite
+Period 05 Rejected Calls                         37  Infinite
+Period 04 Rejected Calls                          0  Infinite
+Period 03 Rejected Calls                          6  Infinite
+Period 02 Rejected Calls                          0  Infinite
+Period 01 Rejected Calls                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Percent Rejected                            15.595    
+Total Cost                                  24059.    
+All Entities.VACost                         2083.1    
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .08555    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      8.0542    
+All Entities.TotalCost                      2091.3    
+All Resources.BusyCost                      2091.3    
+All Resources.IdleCost                      416.67    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     2507.9    
+System.TotalCost                            2507.9    
+
+Beginning replication 2 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 2 of 10
+
+Project: Call Center Model Version 3 With 10 replications            Run execution date : 5/ 2/2023
+Analyst: Ernestine the Statistician                                  Model revision date: 5/ 2/2023
+
+Replication ended at time      : 610.79711 Minutes 
+Base Time Units: Minutes
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Backoffice Research WIP                     1.9259     (Insuf)    .00000     5.0000     1.0000    
+Tech 3 Total Online WIP Stat                5.3089     (Corr)     .00000     15.000     1.0000    
+Tech 2 Total Online WIP Stat                4.9601     (Corr)     .00000     17.000     .00000    
+Tech 1 Total Online WIP Stat                2.7352     (Insuf)    .00000     9.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Completed Calls                                 634  Infinite
+Total Rejected Calls                            109  Infinite
+Attempted Calls                                 745  Infinite
+Period 10 Rejected Calls                          0  Infinite
+Period 09 Rejected Calls                          0  Infinite
+Period 08 Rejected Calls                         24  Infinite
+Period 07 Rejected Calls                         13  Infinite
+Period 06 Rejected Calls                         27  Infinite
+Period 05 Rejected Calls                         34  Infinite
+Period 04 Rejected Calls                          6  Infinite
+Period 03 Rejected Calls                          1  Infinite
+Period 02 Rejected Calls                          4  Infinite
+Period 01 Rejected Calls                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Percent Rejected                            14.630    
+Total Cost                                  20673.    
+All Entities.VACost                         2144.7    
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .00000    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      6.3952    
+All Entities.TotalCost                      2151.0    
+All Resources.BusyCost                      2151.0    
+All Resources.IdleCost                      354.32    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     2505.4    
+System.TotalCost                            2505.4    
+
+Beginning replication 3 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 3 of 10
+
+Project: Call Center Model Version 3 With 10 replications            Run execution date : 5/ 2/2023
+Analyst: Ernestine the Statistician                                  Model revision date: 5/ 2/2023
+
+Replication ended at time      : 630.00143 Minutes 
+Base Time Units: Minutes
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Backoffice Research WIP                     1.7340     (Insuf)    .00000     7.0000     .00000    
+Tech 3 Total Online WIP Stat                4.5256     (Corr)     .00000     14.000     1.0000    
+Tech 2 Total Online WIP Stat                4.8848     (Corr)     .00000     12.000     .00000    
+Tech 1 Total Online WIP Stat                3.2134     (Insuf)    .00000     9.0000     1.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Completed Calls                                 689  Infinite
+Total Rejected Calls                             85  Infinite
+Attempted Calls                                 776  Infinite
+Period 10 Rejected Calls                          0  Infinite
+Period 09 Rejected Calls                          7  Infinite
+Period 08 Rejected Calls                         11  Infinite
+Period 07 Rejected Calls                          4  Infinite
+Period 06 Rejected Calls                         30  Infinite
+Period 05 Rejected Calls                         17  Infinite
+Period 04 Rejected Calls                         10  Infinite
+Period 03 Rejected Calls                          6  Infinite
+Period 02 Rejected Calls                          0  Infinite
+Period 01 Rejected Calls                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Percent Rejected                            10.953    
+Total Cost                                  22229.    
+All Entities.VACost                         2273.9    
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .00000    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      6.9471    
+All Entities.TotalCost                      2280.8    
+All Resources.BusyCost                      2280.8    
+All Resources.IdleCost                      276.93    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     2557.8    
+System.TotalCost                            2557.8    
+
+Beginning replication 4 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 4 of 10
+
+Project: Call Center Model Version 3 With 10 replications            Run execution date : 5/ 2/2023
+Analyst: Ernestine the Statistician                                  Model revision date: 5/ 2/2023
+
+Replication ended at time      : 641.79371 Minutes 
+Base Time Units: Minutes
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Backoffice Research WIP                     1.6255     (Insuf)    .00000     6.0000     1.0000    
+Tech 3 Total Online WIP Stat                4.4881     (Corr)     .00000     11.000     .00000    
+Tech 2 Total Online WIP Stat                3.9975     (Corr)     .00000     11.000     .00000    
+Tech 1 Total Online WIP Stat                2.5866     (Insuf)    .00000     8.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Completed Calls                                 653  Infinite
+Total Rejected Calls                            114  Infinite
+Attempted Calls                                 768  Infinite
+Period 10 Rejected Calls                          4  Infinite
+Period 09 Rejected Calls                          5  Infinite
+Period 08 Rejected Calls                          6  Infinite
+Period 07 Rejected Calls                         17  Infinite
+Period 06 Rejected Calls                         39  Infinite
+Period 05 Rejected Calls                         33  Infinite
+Period 04 Rejected Calls                         10  Infinite
+Period 03 Rejected Calls                          0  Infinite
+Period 02 Rejected Calls                          0  Infinite
+Period 01 Rejected Calls                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Percent Rejected                            14.843    
+Total Cost                                  22566.    
+All Entities.VACost                         2182.1    
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .47689    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      4.3607    
+All Entities.TotalCost                      2186.9    
+All Resources.BusyCost                      2186.9    
+All Resources.IdleCost                      375.11    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     2562.0    
+System.TotalCost                            2562.0    
+
+Beginning replication 5 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 5 of 10
+
+Project: Call Center Model Version 3 With 10 replications            Run execution date : 5/ 2/2023
+Analyst: Ernestine the Statistician                                  Model revision date: 5/ 2/2023
+
+Replication ended at time      : 654.52489 Minutes 
+Base Time Units: Minutes
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Backoffice Research WIP                     2.3960     (Insuf)    .00000     6.0000     1.0000    
+Tech 3 Total Online WIP Stat                4.7876     (Corr)     .00000     13.000     .00000    
+Tech 2 Total Online WIP Stat                3.5659     (Corr)     .00000     12.000     .00000    
+Tech 1 Total Online WIP Stat                2.8652     (Insuf)    .00000     8.0000     1.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Completed Calls                                 647  Infinite
+Total Rejected Calls                             68  Infinite
+Attempted Calls                                 717  Infinite
+Period 10 Rejected Calls                          0  Infinite
+Period 09 Rejected Calls                          0  Infinite
+Period 08 Rejected Calls                          0  Infinite
+Period 07 Rejected Calls                         20  Infinite
+Period 06 Rejected Calls                         21  Infinite
+Period 05 Rejected Calls                         26  Infinite
+Period 04 Rejected Calls                          0  Infinite
+Period 03 Rejected Calls                          1  Infinite
+Period 02 Rejected Calls                          0  Infinite
+Period 01 Rejected Calls                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Percent Rejected                            9.4839    
+Total Cost                                  22017.    
+All Entities.VACost                         2181.2    
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .07635    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      7.5443    
+All Entities.TotalCost                      2188.9    
+All Resources.BusyCost                      2188.9    
+All Resources.IdleCost                      395.14    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     2584.0    
+System.TotalCost                            2584.0    
+
+Beginning replication 6 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 6 of 10
+
+Project: Call Center Model Version 3 With 10 replications            Run execution date : 5/ 2/2023
+Analyst: Ernestine the Statistician                                  Model revision date: 5/ 2/2023
+
+Replication ended at time      : 641.06388 Minutes 
+Base Time Units: Minutes
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Backoffice Research WIP                     1.9441     (Insuf)    .00000     6.0000     1.0000    
+Tech 3 Total Online WIP Stat                5.2195     (Corr)     .00000     15.000     .00000    
+Tech 2 Total Online WIP Stat                4.2500     (Corr)     .00000     11.000     .00000    
+Tech 1 Total Online WIP Stat                3.5262     (Insuf)    .00000     11.000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Completed Calls                                 642  Infinite
+Total Rejected Calls                             83  Infinite
+Attempted Calls                                 726  Infinite
+Period 10 Rejected Calls                          0  Infinite
+Period 09 Rejected Calls                          0  Infinite
+Period 08 Rejected Calls                          0  Infinite
+Period 07 Rejected Calls                          8  Infinite
+Period 06 Rejected Calls                         21  Infinite
+Period 05 Rejected Calls                         42  Infinite
+Period 04 Rejected Calls                          6  Infinite
+Period 03 Rejected Calls                          6  Infinite
+Period 02 Rejected Calls                          0  Infinite
+Period 01 Rejected Calls                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Percent Rejected                            11.432    
+Total Cost                                  20163.    
+All Entities.VACost                         2022.6    
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .01373    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      4.8674    
+All Entities.TotalCost                      2027.4    
+All Resources.BusyCost                      2027.4    
+All Resources.IdleCost                      528.80    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     2556.2    
+System.TotalCost                            2556.2    
+
+Beginning replication 7 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 7 of 10
+
+Project: Call Center Model Version 3 With 10 replications            Run execution date : 5/ 2/2023
+Analyst: Ernestine the Statistician                                  Model revision date: 5/ 2/2023
+
+Replication ended at time      : 646.44208 Minutes 
+Base Time Units: Minutes
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Backoffice Research WIP                     1.7948     (Insuf)    .00000     5.0000     1.0000    
+Tech 3 Total Online WIP Stat                4.3165     (Corr)     .00000     13.000     .00000    
+Tech 2 Total Online WIP Stat                3.6708     (Corr)     .00000     10.000     .00000    
+Tech 1 Total Online WIP Stat                2.6176     (Insuf)    .00000     11.000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Completed Calls                                 619  Infinite
+Total Rejected Calls                            100  Infinite
+Attempted Calls                                 720  Infinite
+Period 10 Rejected Calls                          0  Infinite
+Period 09 Rejected Calls                          0  Infinite
+Period 08 Rejected Calls                          5  Infinite
+Period 07 Rejected Calls                         32  Infinite
+Period 06 Rejected Calls                         27  Infinite
+Period 05 Rejected Calls                         14  Infinite
+Period 04 Rejected Calls                         22  Infinite
+Period 03 Rejected Calls                          0  Infinite
+Period 02 Rejected Calls                          0  Infinite
+Period 01 Rejected Calls                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Percent Rejected                            13.888    
+Total Cost                                  19622.    
+All Entities.VACost                         2169.8    
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .00000    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      6.9232    
+All Entities.TotalCost                      2176.7    
+All Resources.BusyCost                      2176.7    
+All Resources.IdleCost                      391.79    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     2568.5    
+System.TotalCost                            2568.5    
+
+Beginning replication 8 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 8 of 10
+
+Project: Call Center Model Version 3 With 10 replications            Run execution date : 5/ 2/2023
+Analyst: Ernestine the Statistician                                  Model revision date: 5/ 2/2023
+
+Replication ended at time      : 638.76634 Minutes 
+Base Time Units: Minutes
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Backoffice Research WIP                     2.0370     (Insuf)    .00000     6.0000     .00000    
+Tech 3 Total Online WIP Stat                7.1445     (Corr)     .00000     16.000     .00000    
+Tech 2 Total Online WIP Stat                3.6853     (Corr)     .00000     12.000     .00000    
+Tech 1 Total Online WIP Stat                2.6037     (Insuf)    .00000     9.0000     2.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Completed Calls                                 637  Infinite
+Total Rejected Calls                            103  Infinite
+Attempted Calls                                 742  Infinite
+Period 10 Rejected Calls                          0  Infinite
+Period 09 Rejected Calls                          0  Infinite
+Period 08 Rejected Calls                         16  Infinite
+Period 07 Rejected Calls                         19  Infinite
+Period 06 Rejected Calls                         19  Infinite
+Period 05 Rejected Calls                         30  Infinite
+Period 04 Rejected Calls                          4  Infinite
+Period 03 Rejected Calls                         10  Infinite
+Period 02 Rejected Calls                          5  Infinite
+Period 01 Rejected Calls                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Percent Rejected                            13.881    
+Total Cost                                  21174.    
+All Entities.VACost                         2103.6    
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .00000    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      9.7493    
+All Entities.TotalCost                      2113.4    
+All Resources.BusyCost                      2113.4    
+All Resources.IdleCost                      438.69    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     2552.1    
+System.TotalCost                            2552.1    
+
+Beginning replication 9 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 9 of 10
+
+Project: Call Center Model Version 3 With 10 replications            Run execution date : 5/ 2/2023
+Analyst: Ernestine the Statistician                                  Model revision date: 5/ 2/2023
+
+Replication ended at time      : 637.34562 Minutes 
+Base Time Units: Minutes
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Backoffice Research WIP                     .93494     (Insuf)    .00000     3.0000     .00000    
+Tech 3 Total Online WIP Stat                4.8970     (Corr)     .00000     12.000     1.0000    
+Tech 2 Total Online WIP Stat                4.6875     (Corr)     .00000     13.000     .00000    
+Tech 1 Total Online WIP Stat                2.4436     (Insuf)    .00000     9.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Completed Calls                                 649  Infinite
+Total Rejected Calls                             61  Infinite
+Attempted Calls                                 711  Infinite
+Period 10 Rejected Calls                          0  Infinite
+Period 09 Rejected Calls                          0  Infinite
+Period 08 Rejected Calls                          2  Infinite
+Period 07 Rejected Calls                          8  Infinite
+Period 06 Rejected Calls                         17  Infinite
+Period 05 Rejected Calls                         19  Infinite
+Period 04 Rejected Calls                          8  Infinite
+Period 03 Rejected Calls                          7  Infinite
+Period 02 Rejected Calls                          0  Infinite
+Period 01 Rejected Calls                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Percent Rejected                            8.5794    
+Total Cost                                  20344.    
+All Entities.VACost                         2130.0    
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .00000    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      4.4313    
+All Entities.TotalCost                      2134.5    
+All Resources.BusyCost                      2134.5    
+All Resources.IdleCost                      424.30    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     2558.8    
+System.TotalCost                            2558.8    
+
+Beginning replication 10 of 10
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 10 of 10
+
+Project: Call Center Model Version 3 With 10 replications            Run execution date : 5/ 2/2023
+Analyst: Ernestine the Statistician                                  Model revision date: 5/ 2/2023
+
+Replication ended at time      : 612.0392 Minutes 
+Base Time Units: Minutes
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Backoffice Research WIP                     1.9656     (Insuf)    .00000     5.0000     1.0000    
+Tech 3 Total Online WIP Stat                4.2830     (Corr)     .00000     12.000     .00000    
+Tech 2 Total Online WIP Stat                3.3065     (Corr)     .00000     8.0000     .00000    
+Tech 1 Total Online WIP Stat                2.9811     (Insuf)    .00000     8.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Completed Calls                                 659  Infinite
+Total Rejected Calls                             53  Infinite
+Attempted Calls                                 713  Infinite
+Period 10 Rejected Calls                          0  Infinite
+Period 09 Rejected Calls                          0  Infinite
+Period 08 Rejected Calls                          3  Infinite
+Period 07 Rejected Calls                          8  Infinite
+Period 06 Rejected Calls                         10  Infinite
+Period 05 Rejected Calls                         30  Infinite
+Period 04 Rejected Calls                          2  Infinite
+Period 03 Rejected Calls                          0  Infinite
+Period 02 Rejected Calls                          0  Infinite
+Period 01 Rejected Calls                          0  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Percent Rejected                            7.4333    
+Total Cost                                  20577.    
+All Entities.VACost                         2103.6    
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .00000    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      12.475    
+All Entities.TotalCost                      2116.1    
+All Resources.BusyCost                      2116.1    
+All Resources.IdleCost                      396.03    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     2512.2    
+System.TotalCost                            2512.2    
+
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                 Output Summary for 10 Replications
+
+Project: Call Center Model Version 3 With 10 replications            Run execution date : 5/ 2/2023
+Analyst: Ernestine the Statistician                                  Model revision date: 5/ 2/2023
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+Percent Rejected                            12.072     2.0689     7.4333     15.595     10
+Total Cost                                  21342.     969.34     19622.     24059.     10
+All Entities.VACost                         2139.5     48.910     2022.6     2273.9     10
+All Entities.NVACost                        .00000     .00000     .00000     .00000     10
+All Entities.WaitCost                       .06525     .10615     .00000     .47689     10
+All Entities.TranCost                       .00000     .00000     .00000     .00000     10
+All Entities.OtherCost                      7.1748     1.8021     4.3607     12.475     10
+All Entities.TotalCost                      2146.7     48.749     2027.4     2280.8     10
+All Resources.BusyCost                      2146.7     48.749     2027.4     2280.8     10
+All Resources.IdleCost                      399.78     45.810     276.93     528.80     10
+All Resources.UsageCost                     .00000     .00000     .00000     .00000     10
+All Resources.TotalCost                     2546.5     19.797     2505.4     2584.0     10
+System.TotalCost                            2546.5     19.797     2505.4     2584.0     10
+
+Simulation run time: 0.28 minutes.
+Simulation run complete.

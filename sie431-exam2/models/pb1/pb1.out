@@ -1,0 +1,70 @@
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 5/ 2/2023
+Analyst: Windows User                                                Model revision date: 5/ 2/2023
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+No Check Arrival Time                       208.81     (Corr)     4.6467     479.00        928    
+No Check Arrival Times                          --         --         --         --          0
+Manual Arrival Times                            --         --         --         --          0
+Manual Arrival Time                         165.67     (Corr)     4.6467     479.76        928    
+Kiosk Arrival Times                             --         --         --         --          0
+Kiosk Arrival Time                          137.09     (Corr)     3.7682     479.76        928    
+Combined Passengers.VATime                  4.4295     .10534     1.2611     9.1753        928    
+Combined Passengers.NVATime                 .00000     .00000     .00000     .00000        928    
+Combined Passengers.WaitTime                14.754     (Corr)     .00000     40.391        928    
+Combined Passengers.TranTime                2.9767     .08541     1.0062     5.7878        928    
+Combined Passengers.OtherTime               .00000     .00000     .00000     .00000        928    
+Combined Passengers.TotalTime               22.161     (Corr)     3.7682     51.314        928    
+Manual Check In Process.Queue.WaitingTime   17.303     (Corr)     .00000     32.361        361    
+Kiosk Check In Process.Queue.WaitingTime    .24442     .11039     .00000     2.4110        475    
+Security Check Process.Queue.WaitingTime    8.1805     (Corr)     .00000     21.766        934    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Combined Passengers.WIP                     44.954     (Corr)     .00000     69.000     62.000    
+KioskStation.NumberBusy                     1.0037     (Corr)     .00000     2.0000     1.0000    
+KioskStation.NumberScheduled                2.0000     (Insuf)    2.0000     2.0000     2.0000    
+KioskStation.Utilization                    .50186     (Corr)     .00000     1.0000     .50000    
+Agent.NumberBusy                            1.9679     (Insuf)    .00000     2.0000     2.0000    
+Agent.NumberScheduled                       2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Agent.Utilization                           .98397     (Insuf)    .00000     1.0000     1.0000    
+SecurityStation.NumberBusy                  5.7791     (Insuf)    .00000     6.0000     6.0000    
+SecurityStation.NumberScheduled             6.0000     (Insuf)    6.0000     6.0000     6.0000    
+SecurityStation.Utilization                 .96319     (Insuf)    .00000     1.0000     1.0000    
+Manual Check In Process.Queue.NumberInQueu  13.076     (Corr)     .00000     25.000     4.0000    
+Kiosk Check In Process.Queue.NumberInQueue  .24188     .13164     .00000     5.0000     .00000    
+Security Check Process.Queue.NumberInQueue  16.815     (Corr)     .00000     46.000     43.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Combined Passengers.NumberIn                990.00    
+Combined Passengers.NumberOut               928.00    
+KioskStation.NumberSeized                   475.00    
+KioskStation.ScheduledUtilization           .50186    
+Agent.NumberSeized                          361.00    
+Agent.ScheduledUtilization                  .98397    
+SecurityStation.NumberSeized                934.00    
+SecurityStation.ScheduledUtilization        .96319    
+System.NumberOut                            928.00    
+
+
+Simulation run time: 0.00 minutes.
+Simulation run complete.
