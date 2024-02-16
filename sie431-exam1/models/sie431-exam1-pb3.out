@@ -1,0 +1,23 @@
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: One in a miliion can happen                                 Run execution date : 3/21/2023
+Analyst: Kelton                                                      Model revision date: 3/21/2023
+
+Replication ended at time      : 8999999.0 Hours 
+Base Time Units: Hours
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Non Integral Observations                   7053543  Infinite
+Integral Observations                       1946457  Infinite
+
+
+Simulation run time: 0.45 minutes.
+Simulation run complete.

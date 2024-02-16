@@ -1,0 +1,56 @@
+SIMAN Run Controller.
+
+49492891.0 Hours>SIMAN Run Controller.
+
+50045846.0 Hours>SIMAN Run Controller.
+
+59163463.0 Hours>
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/21/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 3/21/2023
+
+Replication ended at time      : 59163463.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+machine.VATime                                  --         --         --         --          0
+machine.NVATime                                 --         --         --         --          0
+machine.WaitTime                                --         --         --         --          0
+machine.TranTime                                --         --         --         --          0
+machine.OtherTime                               --         --         --         --          0
+machine.TotalTime                               --         --         --         --          0
+Machine in service.Queue.WaitingTime        2.4678     .00104     .00000     28.787     554534E+02
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+machine.WIP                                 7.0000     (Insuf)    .00000     7.0000     7.0000    
+cookie maker.NumberBusy                     .93720     5.6420E-05 .00000     1.0000     1.0000    
+cookie maker.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+cookie maker.Utilization                    .93720     5.6420E-05 .00000     1.0000     1.0000    
+Machine in service.Queue.NumberInQueue      2.3130     8.3095E-04 .00000     6.0000     2.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+machine.NumberIn                            7.0000    
+machine.NumberOut                           .00000    
+cookie maker.NumberSeized                   5.5453E+07
+cookie maker.ScheduledUtilization           .93720    
+System.NumberOut                            .00000    
+
+
+Simulation run time: 4.05 minutes.
+Simulation run complete.

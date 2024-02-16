@@ -1,0 +1,88 @@
+
+----------------------------------------------------------------------
+17114:CCREAT
+A runtime error was detected at time 1811.9516 at the following block:
+
+ *    1 6$              CREATE,1,MinutesToBaseTime(0.0),Entity 1:
+                            MinutesToBaseTime(EXPO(1.1)):
+                            NEXT(7$);
+
+Maximum of 150 entities exceeded.
+Possible causes:
+- A logic problem in your model is creating too many entities or not
+  disposing them. The run controller may be helpful in finding the problem.
+- You are in demo mode and have exceeded the entity limit. The commercial
+  version is required to run large models.
+- You have set an entity limit on the DISCRETE element that is too small.
+  Remove the limit or set it to a larger number.
+- You have exceeded the standard array s 
+pace for models. Use the Array Sizes
+  page in the Run/Setup dialog to increase the RSET space allocated and
+  recheck your model.
+----------------------------------------------------------------------
+
+
+SIMAN Run Controller.
+
+1811.9516 Minutes>
+1811.9516 Minutes>
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 10
+
+Project: Unnamed Project                                             Run execution date : 3/21/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 3/21/2023
+
+Replication ended at time      : 1811.9516 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             5.7571     .04025     4.5850     8.3459       1612    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000       1612    
+Entity 1.WaitTime                           78.152     (Corr)     .00000     150.97       1612    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000       1612    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000       1612    
+Entity 1.TotalTime                          83.909     (Corr)     4.9190     156.61       1612    
+Domestic Shipping Process.Queue.WaitingTim  .00000     .00000     .00000     .00000       1284    
+International Shipping Process.Queue.Waiti  1.9846E-04 4.2706E-04 .00000     .06529        329    
+Packing Process.Queue.WaitingTime           78.339     (Corr)     .00000     154.13       1616    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                80.466     (Corr)     .00000     145.00     145.00    
+packers.NumberBusy                          11.975     (Insuf)    .00000     12.000     12.000    
+packers.NumberScheduled                     12.000     (Insuf)    12.000     12.000     12.000    
+packers.Utilization                         .99793     (Insuf)    .00000     1.0000     1.0000    
+domestic shipper.NumberBusy                 3.0187     .07585     .00000     6.0000     .00000    
+domestic shipper.NumberScheduled            6.0000     (Insuf)    6.0000     6.0000     6.0000    
+domestic shipper.Utilization                .50313     .01264     .00000     1.0000     .00000    
+international shipper.NumberBusy            .62459     .06052     .00000     3.0000     1.0000    
+international shipper.NumberScheduled       3.0000     (Insuf)    3.0000     3.0000     3.0000    
+international shipper.Utilization           .20820     .02017     .00000     1.0000     .33333    
+Domestic Shipping Process.Queue.NumberInQu  .00000     (Insuf)    .00000     .00000     .00000    
+International Shipping Process.Queue.Numbe  3.6035E-05 (Insuf)    .00000     1.0000     .00000    
+Packing Process.Queue.NumberInQueue         75.338     (Corr)     .00000     141.00     141.00    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           1757.0    
+Entity 1.NumberOut                          1612.0    
+packers.NumberSeized                        6464.0    
+packers.ScheduledUtilization                .99793    
+domestic shipper.NumberSeized               2568.0    
+domestic shipper.ScheduledUtilization       .50313    
+international shipper.NumberSeized          329.00    
+international shipper.ScheduledUtilization  .20820    
+System.NumberOut                            1612.0    
+

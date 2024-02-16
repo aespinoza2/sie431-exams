@@ -1,0 +1,8 @@
+[RESOURCES]
+cookie maker
+[VARIABLES]
+Generation of seven machines.NumberOut
+Machine in working condition.NumberIn
+Machine in working condition.NumberOut
+Machine in service.NumberIn
+Machine in service.NumberOut

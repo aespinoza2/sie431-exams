@@ -1,0 +1,16 @@
+[RESOURCES]
+packers
+domestic shipper
+international shipper
+[VARIABLES]
+Shipping Check.NumberOut True
+International Shipping Process.NumberOut
+International Shipping Process.NumberIn
+Item arrives.NumberOut
+Packing Process.NumberOut
+Shipped domestically.NumberOut
+Packing Process.NumberIn
+Shipped internationally.NumberOut
+Domestic Shipping Process.NumberIn
+Domestic Shipping Process.NumberOut
+Shipping Check.NumberOut False

@@ -1,0 +1,6 @@
+[RESOURCES]
+[VARIABLES]
+Create Point Once Per Hour.NumberOut
+Dispose.NumberOut
+Observation in domain?.NumberOut False
+Observation in domain?.NumberOut True
